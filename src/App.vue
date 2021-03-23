@@ -1,5 +1,5 @@
 <template>
-    <the-header title="RememberApp"></the-header>
+    <the-header title="LinkApp"></the-header>
     <stored-resources :resources="storedResources"></stored-resources>
 </template>
 
